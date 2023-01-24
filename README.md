@@ -51,8 +51,8 @@ This is the Screenshot of the projects a made!
 
 There is the link of the projects:
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-VnRTnpX0IS)
+- Live Site URL: [live site URL here](https://fem-product-preview-card-component-nine.vercel.app/)
 
 ## Author
 
